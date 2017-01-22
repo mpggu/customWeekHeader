@@ -1,2 +1,2 @@
 # customWeekHeader
-Ein simples Script, welches den Woche 1/2 im Header anzeigt.
+Ein simples Script, welches die Woche 1/2 im Header anzeigt.
